@@ -1,0 +1,6 @@
+---
+applications:
+- name: Omnifood
+  memory: 512M
+  host: omnifood-tak
+  domain: mybluemix.net
